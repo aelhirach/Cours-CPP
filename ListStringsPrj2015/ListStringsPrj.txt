@@ -1,0 +1,1 @@
+./Debug/ListStringsTest.o ./Debug/list.o ./Debug/algo.o  

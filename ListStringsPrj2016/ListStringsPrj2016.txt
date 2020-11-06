@@ -1,0 +1,1 @@
+./Debug/up_ListStringsPrj_algo.cpp.o ./Debug/up_ListStringsPrj_list.cpp.o ./Debug/up_ListStringsPrj_ListStringsTest.cpp.o   

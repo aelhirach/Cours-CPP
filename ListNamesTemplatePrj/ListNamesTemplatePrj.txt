@@ -1,0 +1,1 @@
+./Debug/name.cpp.o ./Debug/ListTemplateTest.cpp.o   
